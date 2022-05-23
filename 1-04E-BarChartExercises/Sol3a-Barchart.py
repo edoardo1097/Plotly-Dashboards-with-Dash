@@ -29,3 +29,5 @@ layout = go.Layout(
 # create a fig from data & layout, and plot the fig
 fig = go.Figure(data=data, layout=layout)
 pyo.plot(fig, filename='solution3a.html')
+
+
